@@ -2,4 +2,6 @@
 
 aaaaaaa
 
-bbbbbbb
+
+
+再次修改，看是不是在git GUI能scan到
