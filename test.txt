@@ -5,3 +5,6 @@ aaaaaaa
 
 
 再次修改，看是不是在git GUI能scan到
+
+
+the content modified by new_branch
